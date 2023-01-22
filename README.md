@@ -4,25 +4,25 @@
 
 
     class Ronaldo extends Human {
-    name: string;
-    nationality: string;
+     name: string;
+     nationality: string;
   
     constructor() {
-    super();
-    this.name = "Ronaldo de Oliveira";
-    this.nationality = "Brazilian";
+     super();
+     this.name = "Ronaldo de Oliveira";
+     this.nationality = "Brazilian";
     }
   
     languages: Array<string> = [
-    "Portuguese",
-    "English",
-    "Spanish"
+     "Portuguese",
+     "English",
+     "Spanish"
     ];
   
     technologies: {
-    JavaScript:     ["Vue"];
-    Python:         ["Django"];
-    APIs:           ["REST"];
-    CloudComputing: ["Docker"];
+     JavaScript:     ["Vue"];
+     Python:         ["Django"];
+     APIs:           ["REST"];
+     CloudComputing: ["Docker"];
      };
     }
