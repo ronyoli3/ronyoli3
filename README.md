@@ -21,7 +21,7 @@
   
     technologies: {
      JavaScript:     ["Vue"];
-     Python:         ["Django"];
+     Java:           ["Spring Boot"];
      APIs:           ["REST"];
      CloudComputing: ["Docker"];
      };
